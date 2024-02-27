@@ -4,9 +4,9 @@ Actividad en clase para hacer uso de los comandos de git
 
 ### integrantes
 
-1.Juan Camilo García Saenz
-2.Steven Giron Arcila
-3.Jean Carlos Lerma Rojas
+1.Juan Camilo García Saenz \n
+2.Steven Giron Arcila  \n
+3.Jean Carlos Lerma Rojas \n
 
 
 ## Información general
